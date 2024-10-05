@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: #F4D5DA;
+    margin-left: 50px;
+    margin-right: 50px
+  }
+  
+  h1, h2{
+    color: white;
+    text-align: center;
+  }
+  img {
+    width: 270px;
+    height: 270px;
+    justify-content: center;
+  }
+  
+  .images {
+    background-color: #F8E7EA;
+  }
+  
+  button{
+    width: 70px;
+    height: 50px;
+  }
